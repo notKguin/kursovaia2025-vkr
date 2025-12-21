@@ -1,5 +1,4 @@
 # Прогнозирование сбоев в работе сети (Курсовой проект)
-# Network Failure Prediction (Course Project)
 
 Учебный проект, посвящённый применению методов машинного обучения для прогнозирования отказов сетевого оборудования.
 
@@ -19,6 +18,7 @@
 
 ---
 
+# Network Failure Prediction (Course Project)
 ## 🇬🇧 About the Project
 
 This is an educational project that explores how machine learning can be used to predict network equipment failures based on monitoring data.
