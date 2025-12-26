@@ -183,7 +183,7 @@ def model_block(name, model):
     imp_df = get_feature_importance(name, model)
     st.dataframe(
         imp_df,
-        use_container_width=True,
+        width='stretch',
         hide_index=True,
     )
 
